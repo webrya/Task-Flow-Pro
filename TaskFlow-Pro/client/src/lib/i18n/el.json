@@ -1,0 +1,26 @@
+{
+  "sidebar": {
+    "dashboard": "Πίνακας Ελέγχου",
+    "properties": "Ακίνητα",
+    "settings": "Ρυθμίσεις",
+    "logout": "Αποσύνδεση",
+    "account": "Λογαριασμός"
+  },
+  "dashboard": {
+    "title": "Πίνακας Ελέγχου",
+    "subtitle": "Επισκόπηση του χαρτοφυλακίου ενοικίασης",
+    "noProperties": "Δεν υπάρχουν ακίνητα ακόμα",
+    "addProperty": "Προσθήκη Ακινήτου",
+    "bookingGrowth": "Κρατήσεις ανά Χρόνο",
+    "taskStatus": "Κατάσταση Εργασιών"
+  },
+  "tasks": {
+    "open": "Ανοιχτό",
+    "done": "Ολοκληρωμένο",
+    "inProgress": "Σε Εξέλιξη"
+  },
+  "settings": {
+    "language": "Γλώσσα",
+    "accountSettings": "Ρυθμίσεις Λογαριασμού"
+  }
+}
